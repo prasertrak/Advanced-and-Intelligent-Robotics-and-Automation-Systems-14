@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pypylon
+pytesseract
+matplotlib
+ipykernel
+ipywidgets
+certifi
+streamlit
+pandas
+scikit-learn

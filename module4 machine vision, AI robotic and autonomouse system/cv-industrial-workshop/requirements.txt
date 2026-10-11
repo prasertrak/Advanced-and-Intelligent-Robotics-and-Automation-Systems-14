@@ -1,8 +1,0 @@
-opencv-python
-numpy
-pypylon
-pytesseract
-matplotlib
-ipykernel
-ipywidgets
-certifi
